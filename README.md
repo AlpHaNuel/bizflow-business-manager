@@ -77,8 +77,7 @@ bizflow-business-manager/
 │   ├── inventory.png
 │   └── sales.png
 │
-└── templates/
-    └── BizFlow_Template.xlsx
+└── Access
 ```
 
 ---
