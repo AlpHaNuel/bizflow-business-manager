@@ -110,5 +110,14 @@ BizFlow solves these problems through automation and structured workflows.
 
 ## Emmanuel Sunday Umanah (AlpHaNuel)
 
-GitHub:
-https://github.com/AlpHaNuel
+# Access the Project
+
+BizFlow operates through a protected Google Sheets workflow system.
+
+To maintain system integrity and prevent unauthorized duplication, the main operational file is not publicly downloadable.
+
+Request access here:
+
+[BizFlow Access Request](https://docs.google.com/spreadsheets/d/1ev8tPdFumfswfLz8KDlEh0I2uB6O-_EuGCSMAQFJsqU/edit?usp=sharing)
+
+Access permissions are controlled manually.
